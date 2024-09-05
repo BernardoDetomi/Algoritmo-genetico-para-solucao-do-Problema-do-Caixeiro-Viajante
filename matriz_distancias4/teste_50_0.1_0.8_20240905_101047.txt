@@ -1,5 +1,0 @@
-Populacao: 50
-Taxa de Mutacao: 0.1
-Taxa de Cruzamento: 0.8
-Melhor Distancia: 21
-Melhor Rota: [3, 0, 2, 1]
