@@ -9,9 +9,9 @@ Este repositório contém a implementação de um **Algoritmo Genético (AG)** p
 - [` > utils.py < `](./utils.py): 🔧 Funções utilitárias como cálculo de distância, criação de rotas, mutação e crossover.
 - [` > matriz_distancias4.txt < `](./matriz_distancias4.txt) [` > matriz_distancias8.txt < `](./matriz_distancias8.txt) [` > matriz_distancias15.txt < `](./matriz_distancias15.txt): 📊 Arquivos de teste contendo matrizes de distâncias para diferentes números de cidades (4, 8 e 15 cidades, respectivamente).
 
-## 📂 Pasta `testes`
+## 📂 Pasta [` > testes < `](./testes)
 
-Dentro da pasta `testes`, você encontrará subpastas organizadas pelas seguintes instâncias de matriz de distâncias:
+Dentro da pasta [` > testes < `](./testes), você encontrará subpastas organizadas pelas seguintes instâncias de matriz de distâncias:
 
 - [` > matriz_distancias4.txt < `](./matriz_distancias4.txt): 🔢 Contém testes com matrizes de distâncias de 4 cidades.
 - [` > matriz_distancias8.txt < `](./matriz_distancias8.txt): 🔢 Contém testes com matrizes de distâncias de 8 cidades.
