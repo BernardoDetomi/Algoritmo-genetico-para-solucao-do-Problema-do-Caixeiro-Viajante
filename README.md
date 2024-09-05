@@ -1,6 +1,6 @@
 # 🧬 Algoritmo Genético para o Problema do Caixeiro Viajante (TSP)
 
-Este repositório contém a implementação de um **Algoritmo Genético (AG)** para resolver o **Problema do Caixeiro Viajante (TSP - Traveling Salesman Problem)**. O código utiliza matrizes de distâncias fornecidas em arquivos de texto para encontrar a rota ótima.
+Este repositório contém a implementação de um **Algoritmo Genético (AG)** para resolver o **Problema do Caixeiro Viajante (TSP - Traveling Salesman Problem)** proposto para o Trabalho Prático da disciplina de Grafos. O código utiliza matrizes de distâncias fornecidas em arquivos de texto para encontrar a rota ótima.
 
 ## 🗂️ Estrutura de Arquivos
 
