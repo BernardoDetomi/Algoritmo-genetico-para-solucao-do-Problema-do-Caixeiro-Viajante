@@ -43,8 +43,8 @@ Os resultados de cada teste são armazenados automaticamente na pasta `testes`. 
 
 Exemplo de saída de resultado em console:
 
-População: 100, Mutação: 0.01, Cruzamento: 0.8
-Melhor distância: 128
-Melhor rota: [0, 1, 3, 2, 0]
+População: 100, Mutação: 0.01, Cruzamento: 0.8  
+Melhor distância: 128  
+Melhor rota: [0, 1, 3, 2, 0]  
 
 Esses resultados podem ser encontrados nos arquivos gerados dentro das subpastas da pasta `testes`.
